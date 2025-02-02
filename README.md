@@ -18,7 +18,7 @@ Chillout Oasis is a mindfulness and stress reduction mobile application designed
 <!-- Add Screenshots Here -->
 | Home Screen | Mindfulness Exercises | Stress Reduction |
 |------------|--------------------|----------------|
-| ![Home](https://example.com/home.png) | ![Mindfulness](https://example.com/mindfulness.png) | ![Stress](https://example.com/stress.png) |
+| ![Home](https://github.com/patelcodes26/Chillout-Oasis-App/blob/main/images/home%20screen.png) | ![Mindfulness](https://github.com/patelcodes26/Chillout-Oasis-App/blob/main/images/mindfulness.png) | ![Stress](https://github.com/patelcodes26/Chillout-Oasis-App/blob/main/images/stress%20reduction.png) |
 
 ## 🔧 Installation & Setup
 ```sh
