@@ -22,7 +22,7 @@ Chillout Oasis is a mindfulness and stress reduction mobile application designed
 
 ## 🔧 Installation & Setup
 ```sh
-git clone https://github.com/patelcodes26/Chillout-Oasis-App.git
+git clone https://github.com/apatel392/Chillout-Oasis-App.git
 cd Chillout-Oasis-App
 flutter pub get
 flutter run
